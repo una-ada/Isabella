@@ -37,7 +37,7 @@ Textures and models for various mods not included in the main packs!
 
 Find past versions of Isabella, remixes, and more!
 
-* *[Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)* - The new landing thread for Isabella pilgrims!
+* *[Isabella II Status Thread by yurisuika](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)* - yurisuika's continuation, last updated for 1.19 snapshots!
 
 * *[Isabella II Continuation by Shrugs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972-16x-1-6-1-7-1-8beta-isabella-ii-unofficial-thread)* - The original continuation, last updated for 1.8 snapshots!
 
