@@ -1,44 +1,68 @@
 <p align="center"><img src="https://github.com/una-ada/Isabella/blob/master/Isabella%20%C3%97%201.19/pack.png?raw=true" width="256" height="256"></p>
 
-**Isabella** is a resource pack for Minecraft.
+# Isabella ![](https://img.shields.io/badge/License-cc--by--3.0-green.svg)
+> A minecraft resourcepack
 
-Isabella is a continuation of Isabella II, not Isabella Classic (in other words, Isabella I). We've just renamed it for simplicity sake!
+Isabella is a continuation of the preeminent [Isabella II][1] by Bonemouse (not 
+Isabella Classic), carrying on from [Shrugs][2] and [yurisuika][3]. Mod support is built on [Isabella II FTB][10], with some textures being reused for newer vanilla blocks and items.
 
-#### Resource Packs
+### Resource Packs
 
 Resource packs available as .ZIP archives ready to download!
 
-##### Snapshot Version
+- \[NONE\]
 
-Work in progress for a work in progress! These textures may change at any moment! Handle with care!
+### Credits
 
-###### 1.19 - [*`Isabella × 1.19`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.19.zip)
+- _[Isabella II][1]_ by Bonemouse, the original texture pack, last updated for 
+  1.5.
+- Main Menu Background by [frejid](https://github.com/frejid)
+- Some textures are based off the work of [Mojang](https://github.com/mojang)
+- Some textures from [Quandary][4] and [Coterie Craft][5] appear in Isabella. 
+  These textures were originally created by Bonemouse for those packs.
+- _[Isabella II Continuation][2]_ by Shrugs, last updated for 1.8 snapshots.
+- _[Isabella][3]_ by yurisuika, a continuation of the vanilla textures for 
+  the SuikaCraft server, last updated for 1.19 snapshots.
+- _[Isabella II FTB][6]_, spearheaded by [MrAndrew420][7] in November of 2012, 
+  later managed by [ScottKillen][8] ([repo][10]) and then [frederikam][9].
+- Many textures were contributed to the [FTB Forum Thread][6] over several 
+  years. Listed in order of their first contibution: 
+    - [MrAndrew420](https://github.com/mrandrew420)
+    - [Gnomeo](https://github.com/gnomeo) ([repo][11])
+    - listoflights
+    - Wollibeebee
+    - [frederikam][9]
+    - [frejid](https://github.com/frejid)
+    - AndyThaBong
+    - [Zionmoose](https://github.com/zionmoose)
+    - [ScottKillen](https://github.com/ScottKillen)
+    - Darn Buntley
+    - [kuroneko87](https://github.com/KuroNeko87)
+    - [PatchouliKnowledge](https://github.com/patchouliknowledge)
+    - [MasterAbdoTGM50](https://github.com/masterabdotgm50)
+    - [Revemohl](https://github.com/revemohl)
+    - Nilocshot
+    - ItsBeenInCaves
+    - Nemo
+    - dvtnlx
+    - oOKnightmareOo
+    - [Death 9407](https://github.com/Akull9)
+    - [y401](https://github.com/y401)
+    - [Not_Steve](https://github.com/Brian-Crotty)
+    - [tedyhere](https://github.com/tedyhere)
+    - [IronPiston](https://github.com/ironpiston)
+    - [Ardor](https://github.com/ardor)
+    - [Moonandstar](https://github.com/moonandstar)
 
-##### Release Version
 
-The latest and greatest! That is, until the next update comes along!
-
-###### \[NONE\]
-
-##### Legacy Versions
-
-Packs from versions past! Still kept up to date! Good as new!
-
-###### \[NONE\]
-
-##### Mods Add-On
-
-Textures and models for various mods not included in the main packs!
-
-###### 1.19 - [*`Isabella × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Mods.zip)
-
-
-#### Forum Threads
-
-Find past versions of Isabella, remixes, and more!
-
-* *[Isabella II Status Thread by yurisuika](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)* - yurisuika's continuation, last updated for 1.19 snapshots!
-
-* *[Isabella II Continuation by Shrugs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972-16x-1-6-1-7-1-8beta-isabella-ii-unofficial-thread)* - The original continuation, last updated for 1.8 snapshots!
-
-* *[Isabella II by Bonemouse](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573)* - The original pack, last updated for 1.5!
+[1]: hhttp://www.minecraftforum.net/topic/242175-Isabella/
+[2]: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972
+[3]: https://github.com/yurisuika/Isabella
+[4]: https://www.youtube.com/watch?v=YZN02xqjam0
+[5]: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223548
+[6]: http://forum.feed-the-beast.com/threads/16x-isabella-ii-ftb-edition.1379/
+[7]: https://github.com/mrandrew420
+[8]: https://github.com/ScottKillen
+[9]: https://bitbucket.org/%7B0e32d76e-764a-4bee-a4e7-e4ef9c535f5a%7D/
+[10]: https://github.com/KillenCraft/Isabella-II-FTB
+[11]: https://github.com/Gnomeo/Modded_Isabella
