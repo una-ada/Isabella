@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/template_glass",
-	"textures": {
-		"glass": "block/black_stained_glass",
-		"particle": "block/black_stained_glass"
-	}
-}
