@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_fence_post",
-  "textures": {
-		"top": "block/acacia_fence_top",
-		"texture": "block/acacia_fence"
-	}
-}
