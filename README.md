@@ -111,8 +111,9 @@ Resource packs available as .ZIP archives ready to download!
 
 ### Mods
 
-This list is highly tentative. I intend to develop a modpack for 1.20.1 in the future, likely after the eventual release of Thaumcraft VII, and provide resourcepack coverage for every mod included. 
+This list is highly tentative. I intend to develop a modpack for 1.20.1 in the future, based on [TerraFirmaGreg-Modern][13], and provide resourcepack coverage for every mod included. The pack is likely to remove a few extra features from TFG, while adding in some magic and decor mods.
 
+- [ ] [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
 - [ ] [aleki's Nifty Ships](https://www.curseforge.com/minecraft/mc-mods/alekiships)
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [ ] [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
@@ -203,11 +204,8 @@ This list is highly tentative. I intend to develop a modpack for 1.20.1 in the f
 - [ ] [Modern Markings](https://www.curseforge.com/minecraft/mc-mods/modernmarkings)
 - [ ] [Music Maker Mod](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod)
 - [ ] [Particular Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged)
-- [ ] [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
-  - [ ] [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
 - [ ] [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
   - [ ] [Rechiseled: Create](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
-- [ ] [Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill)
 - [ ] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
 - [ ] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 - [ ] [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
@@ -247,3 +245,4 @@ This list is highly tentative. I intend to develop a modpack for 1.20.1 in the f
 [10]: https://github.com/KillenCraft/Isabella-II-FTB
 [11]: https://github.com/Gnomeo/Modded_Isabella
 [12]: https://forum.btwce.com/viewtopic.php?f=12&t=5339&sid=452a6fed059fcbabdedb6cba5d590a7a
+[13]: https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern
