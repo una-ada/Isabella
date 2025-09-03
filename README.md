@@ -1,10 +1,12 @@
 <p align="center"><img src="https://github.com/una-ada/Isabella/blob/master/Isabella%20%C3%97%201.19/pack.png?raw=true" width="256" height="256"></p>
 
 # Isabella ![](https://img.shields.io/badge/License-cc--by--3.0-green.svg)
-> A minecraft resourcepack
+> A melancholic Minecraft resourcepack
 
 Isabella is a continuation of the preeminent [Isabella II][1] by Bonemouse (not 
 Isabella Classic), carrying on from [Shrugs][2] and [yurisuika][3]. Mod support is built on [Isabella II FTB][10], with some textures being reused for newer vanilla blocks and items.
+
+I believe in a certain level of parity with vanilla in terms of the stylization of certain blocks and their usage in gradients. To that end, I've deviated from previous continuations in my approach to wood colors as well as door designs.
 
 ### Resource Packs
 
@@ -55,7 +57,7 @@ Resource packs available as .ZIP archives ready to download!
     - [Moonandstar](https://github.com/moonandstar)
 
 
-[1]: hhttp://www.minecraftforum.net/topic/242175-Isabella/
+[1]: https://www.minecraftforum.net/topic/242175-Isabella/
 [2]: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972
 [3]: https://github.com/yurisuika/Isabella
 [4]: https://www.youtube.com/watch?v=YZN02xqjam0
