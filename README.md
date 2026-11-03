@@ -90,7 +90,7 @@ Resource packs available as .ZIP archives ready to download!
   - [ ] Diorite
   - [ ] Dripstone
   - [ ] Granite
-  - [ ] Tuff
+  - [X] Tuff
 - [ ] `1.20.x` Cherry Grove & Archeology
 - [ ] `1.21.x` Pale Garden & Trial Chambers
 
