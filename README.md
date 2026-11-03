@@ -84,7 +84,7 @@ Resource packs available as .ZIP archives ready to download!
   - [ ] Mangrove
   - [ ] Warped
 - [ ] Add variety to stone types:
-  - [ ] Andesite
+  - [X] Andesite
   - [ ] Basalt
   - [ ] Blackstone
   - [ ] Diorite
