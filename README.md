@@ -66,9 +66,8 @@ Resource packs available as .ZIP archives ready to download!
 - [ ] Add color to wood:
   - [X] Acacia
   - [X] Warped
-  - [ ] Crimson
   - [X] Mangrove
-- [ ] Add patterns to glazed terracotta
+- [X] Add patterns to glazed terracotta
 - [ ] Add variety to coral:
   - [ ] Brain
   - [ ] Bubble
@@ -83,14 +82,6 @@ Resource packs available as .ZIP archives ready to download!
   - [ ] Jungle
   - [ ] Mangrove
   - [ ] Warped
-- [ ] Add variety to stone types:
-  - [X] Andesite
-  - [ ] Basalt
-  - [ ] Blackstone
-  - [ ] Diorite
-  - [ ] Dripstone
-  - [ ] Granite
-  - [X] Tuff
 - [ ] `1.20.x` Cherry Grove & Archeology
 - [ ] `1.21.x` Pale Garden & Trial Chambers
 
